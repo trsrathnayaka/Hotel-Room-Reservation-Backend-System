@@ -1,7 +1,8 @@
 # Hotel-Room-Reservation-Backend-System
 A web application to book a room in a hotel, a customer must check the application to see if there is an empty room, the duration of the reservation and the overall cost ..etc. by introducing personal information.
 
-### Screenshoot
+
+## Screen Shot 📷
 ![Screenshot (280)](https://user-images.githubusercontent.com/97075043/232541995-f25bdaaa-7610-4bf6-85f6-931cdcc9470c.png)
 
 ![Screenshot (281)](https://user-images.githubusercontent.com/97075043/232542013-54ee5c9c-373a-4957-ab26-e54091b64c3d.png)
@@ -15,4 +16,8 @@ A web application to book a room in a hotel, a customer must check the applicati
 
 ### Used Technologies & Frameworks
 * JavaEE (JSP, Servlet, Mysql, Database)
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.
 
