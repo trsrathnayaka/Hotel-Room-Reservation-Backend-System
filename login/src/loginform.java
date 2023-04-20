@@ -15,7 +15,7 @@ public class loginform extends javax.swing.JFrame {
     Connection con;
     PreparedStatement pst;
     ResultSet rs;
-    
+    //coonect to the mysql database
     public void Connect()
     {
         try {
